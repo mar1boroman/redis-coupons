@@ -1,0 +1,982 @@
+[
+    {
+        "product": {
+            "title": "BrandX Wireless Bluetooth Earbuds",
+            "description": "Experience crystal-clear audio with these compact wireless earbuds. Featuring touch controls, a secure fit, and up to 24 hours of battery life with the charging case, they're perfect for music on the go or hands-free calls.",
+            "price": 12178.9,
+            "product_category": "Smart Home",
+            "product_subcategories": "Health",
+            "geo": [
+                19.084174,
+                72.877584
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "559040",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00001",
+            "vendor_code": "VENDOR-452"
+        }
+    },
+    {
+        "product": {
+            "title": "BrandY 4K Ultra HD Smart TV",
+            "description": "Immerse yourself in stunning visuals with this 4K Ultra HD Smart TV. Equipped with Dolby Vision, HDR10 support, and built-in streaming apps, it delivers a cinematic viewing experience from the comfort of your home.",
+            "price": 35712.54,
+            "product_category": "Smart Home",
+            "product_subcategories": "Climate Control,Kitchen,Laundry",
+            "geo": [
+                19.067193,
+                72.884925
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "838839",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00002",
+            "vendor_code": "VENDOR-350"
+        }
+    },
+    {
+        "product": {
+            "title": "BrandZ Stainless Steel Water Bottle",
+            "description": "Stay hydrated with this durable stainless steel water bottle. It features double-wall insulation to keep beverages hot for 12 hours or cold for 24 hours, making it ideal for workouts, travel, or daily use.",
+            "price": 48270.71,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Travel,Sports,Recreation",
+            "geo": [
+                28.711143,
+                77.109021
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "361653",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00003",
+            "vendor_code": "VENDOR-924"
+        }
+    },
+    {
+        "product": {
+            "title": "Elite Ergonomic Office Chair by BrandA",
+            "description": "Work comfortably with this ergonomic office chair, designed with adjustable lumbar support, a breathable mesh back, and 360-degree swivel. Perfect for long hours at your desk.",
+            "price": 37451.78,
+            "product_category": "Electronics",
+            "product_subcategories": "Health,Grooming,Fitness",
+            "geo": [
+                19.069989,
+                72.872958
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "658162",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00004",
+            "vendor_code": "VENDOR-108"
+        }
+    },
+    {
+        "product": {
+            "title": "Turbo Gaming Laptop by BrandB",
+            "description": "Unleash your gaming potential with this high-performance laptop featuring an Intel i7 processor, NVIDIA RTX graphics card, and a 144Hz display for ultra-smooth gameplay.",
+            "price": 6537.16,
+            "product_category": "Smart Home",
+            "product_subcategories": "Computing,Visual",
+            "geo": [
+                19.077077,
+                72.870497
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "174049",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00005",
+            "vendor_code": "VENDOR-898"
+        }
+    },
+    {
+        "product": {
+            "title": "Ascend Electric Standing Desk by BrandC",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 14895.56,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Computing",
+            "geo": [
+                28.69995,
+                77.096598
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "658474",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00006",
+            "vendor_code": "VENDOR-360"
+        }
+    },
+    {
+        "product": {
+            "title": "Photon Smartphone with Triple Camera by BrandD",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 3507.74,
+            "product_category": "Personal Care",
+            "product_subcategories": "Automation,Lighting",
+            "geo": [
+                28.70908,
+                77.103878
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "135636",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00007",
+            "vendor_code": "VENDOR-659"
+        }
+    },
+    {
+        "product": {
+            "title": "Pulse Portable Power Bank by BrandE",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 18520.91,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Sports,Recreation,Travel",
+            "geo": [
+                12.969265,
+                77.59812
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "292949",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00008",
+            "vendor_code": "VENDOR-950"
+        }
+    },
+    {
+        "product": {
+            "title": "Echo Noise Cancelling Headphones by BrandF",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 19927.36,
+            "product_category": "Electronics",
+            "product_subcategories": "Laundry",
+            "geo": [
+                28.712458,
+                77.100497
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "269634",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00009",
+            "vendor_code": "VENDOR-286"
+        }
+    },
+    {
+        "product": {
+            "title": "AirMaster Air Fryer by BrandG",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 7101.1,
+            "product_category": "Electronics",
+            "product_subcategories": "Audio",
+            "geo": [
+                28.695915,
+                77.094991
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "280357",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00010",
+            "vendor_code": "VENDOR-654"
+        }
+    },
+    {
+        "product": {
+            "title": "SwiftFit Smart Watch by BrandH",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 42849.76,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Computing",
+            "geo": [
+                28.708507,
+                77.099096
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "665127",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00011",
+            "vendor_code": "VENDOR-648"
+        }
+    },
+    {
+        "product": {
+            "title": "Resist Resistance Bands by BrandI",
+            "description": "Crafted for durability and performance, this set includes five bands of varying resistance. Perfect for strength training and rehabilitation, these lightweight and portable bands come with foam handles for enhanced grip and a door anchor for versatile workouts.",
+            "price": 32184.99,
+            "product_category": "Electronics",
+            "product_subcategories": "Grooming",
+            "geo": [
+                12.971493,
+                77.588214
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "487377",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00012",
+            "vendor_code": "VENDOR-424"
+        }
+    },
+    {
+        "product": {
+            "title": "FlexFit Pull-Up Bar by BrandJ",
+            "description": "Engineered for stability, this bar fits standard doorways. Its anti-slip foam grips ensure comfort, while the sturdy steel construction supports rigorous upper-body exercises. Ideal for beginners and professionals alike.",
+            "price": 48605.02,
+            "product_category": "Electronics",
+            "product_subcategories": "Grooming,Fitness,Health",
+            "geo": [
+                12.980712,
+                77.590453
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "811336",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00013",
+            "vendor_code": "VENDOR-627"
+        }
+    },
+    {
+        "product": {
+            "title": "Harmony Yoga Mat by BrandK",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 8214.87,
+            "product_category": "Electronics",
+            "product_subcategories": "Climate Control,Laundry,Kitchen",
+            "geo": [
+                12.966288,
+                77.591175
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "826336",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00014",
+            "vendor_code": "VENDOR-163"
+        }
+    },
+    {
+        "product": {
+            "title": "ProChef Automatic Espresso Machine by BrandL",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 31999.84,
+            "product_category": "Personal Care",
+            "product_subcategories": "Mobile,Visual",
+            "geo": [
+                12.969382,
+                77.590428
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "809399",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00015",
+            "vendor_code": "VENDOR-319"
+        }
+    },
+    {
+        "product": {
+            "title": "SwiftClean Cordless Vacuum Cleaner by BrandM",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 9077.42,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Sports",
+            "geo": [
+                28.711367,
+                77.105947
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "363446",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00016",
+            "vendor_code": "VENDOR-959"
+        }
+    },
+    {
+        "product": {
+            "title": "Lumi LED Desk Lamp by BrandN",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 38964.26,
+            "product_category": "Smart Home",
+            "product_subcategories": "Health,Fitness,Grooming",
+            "geo": [
+                19.074032,
+                72.883347
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "475706",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00017",
+            "vendor_code": "VENDOR-684"
+        }
+    },
+    {
+        "product": {
+            "title": "SkyView Drone with 4K Camera by BrandO",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 49390.84,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Computing",
+            "geo": [
+                12.98095,
+                77.598138
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "568300",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00018",
+            "vendor_code": "VENDOR-549"
+        }
+    },
+    {
+        "product": {
+            "title": "Memories Digital Photo Frame by BrandP",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 43402.85,
+            "product_category": "Electronics",
+            "product_subcategories": "Kitchen,Climate Control",
+            "geo": [
+                28.703294,
+                77.108613
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "197541",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00019",
+            "vendor_code": "VENDOR-525"
+        }
+    },
+    {
+        "product": {
+            "title": "SecureSmart Smart Door Lock by BrandQ",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 13907.76,
+            "product_category": "Personal Care",
+            "product_subcategories": "Recreation,Travel,Sports",
+            "geo": [
+                28.701592,
+                77.105744
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "402873",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00020",
+            "vendor_code": "VENDOR-414"
+        }
+    },
+    {
+        "product": {
+            "title": "Smile Electric Toothbrush by BrandR",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 28422.7,
+            "product_category": "Personal Care",
+            "product_subcategories": "Climate Control",
+            "geo": [
+                12.969949,
+                77.584981
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "525003",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00021",
+            "vendor_code": "VENDOR-902"
+        }
+    },
+    {
+        "product": {
+            "title": "ChefPro Multi-Purpose Pressure Cooker by BrandS",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 41247.48,
+            "product_category": "Personal Care",
+            "product_subcategories": "Audio,Computing,Visual",
+            "geo": [
+                19.084673,
+                72.868406
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "847615",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00022",
+            "vendor_code": "VENDOR-893"
+        }
+    },
+    {
+        "product": {
+            "title": "BuildMaster Kids' Toy Building Blocks by BrandT",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 42479.68,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Grooming,Health",
+            "geo": [
+                19.068173,
+                72.883322
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "193788",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00023",
+            "vendor_code": "VENDOR-412"
+        }
+    },
+    {
+        "product": {
+            "title": "StylePro Professional Hair Dryer by BrandU",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 45885.14,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Audio",
+            "geo": [
+                28.694439,
+                77.111841
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "464250",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00024",
+            "vendor_code": "VENDOR-857"
+        }
+    },
+    {
+        "product": {
+            "title": "MicrowavePro Oven with Grill by BrandV",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 4418.26,
+            "product_category": "Personal Care",
+            "product_subcategories": "Computing,Visual",
+            "geo": [
+                19.072215,
+                72.881319
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "168429",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00025",
+            "vendor_code": "VENDOR-697"
+        }
+    },
+    {
+        "product": {
+            "title": "UltraGaming Mouse by BrandW",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 19669.29,
+            "product_category": "Electronics",
+            "product_subcategories": "Health,Fitness,Grooming",
+            "geo": [
+                12.968194,
+                77.60441
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "918449",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00026",
+            "vendor_code": "VENDOR-473"
+        }
+    },
+    {
+        "product": {
+            "title": "ClimateControl Smart Thermostat by BrandX",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 9261.98,
+            "product_category": "Personal Care",
+            "product_subcategories": "Lighting,Security",
+            "geo": [
+                12.970862,
+                77.590763
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "451258",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00027",
+            "vendor_code": "VENDOR-276"
+        }
+    },
+    {
+        "product": {
+            "title": "Luxury Men's Leather Wallet by BrandY",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 31536.63,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Kitchen,Climate Control,Laundry",
+            "geo": [
+                28.700285,
+                77.093757
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "272627",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00028",
+            "vendor_code": "VENDOR-754"
+        }
+    },
+    {
+        "product": {
+            "title": "Chic Women's Crossbody Handbag by BrandZ",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 4861.68,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Climate Control",
+            "geo": [
+                12.970553,
+                77.598694
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "578977",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00029",
+            "vendor_code": "VENDOR-654"
+        }
+    },
+    {
+        "product": {
+            "title": "Glow Decorative Table Lamp by BrandA",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 46314.41,
+            "product_category": "Smart Home",
+            "product_subcategories": "Grooming,Fitness,Health",
+            "geo": [
+                12.971992,
+                77.586892
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "639778",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00030",
+            "vendor_code": "VENDOR-824"
+        }
+    },
+    {
+        "product": {
+            "title": "PatioPerfect Outdoor Furniture Set by BrandB",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 1445.03,
+            "product_category": "Electronics",
+            "product_subcategories": "Recreation,Sports",
+            "geo": [
+                19.066607,
+                72.868184
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "375771",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00031",
+            "vendor_code": "VENDOR-417"
+        }
+    },
+    {
+        "product": {
+            "title": "Adventure Camping Tent by BrandC",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 38406.84,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Automation,Security,Lighting",
+            "geo": [
+                28.704638,
+                77.095386
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "365699",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00032",
+            "vendor_code": "VENDOR-804"
+        }
+    },
+    {
+        "product": {
+            "title": "Zoom Electric Scooter by BrandD",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 44204.25,
+            "product_category": "Personal Care",
+            "product_subcategories": "Visual",
+            "geo": [
+                19.067656,
+                72.880828
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "338244",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00033",
+            "vendor_code": "VENDOR-327"
+        }
+    },
+    {
+        "product": {
+            "title": "Blast Bluetooth Speaker by BrandE",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 24648.61,
+            "product_category": "Electronics",
+            "product_subcategories": "Automation,Lighting",
+            "geo": [
+                19.068236,
+                72.884285
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "662950",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00034",
+            "vendor_code": "VENDOR-335"
+        }
+    },
+    {
+        "product": {
+            "title": "BlendMaster High-Speed Blender by BrandF",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 25043.05,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Automation",
+            "geo": [
+                28.70932,
+                77.112228
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "634260",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00035",
+            "vendor_code": "VENDOR-589"
+        }
+    },
+    {
+        "product": {
+            "title": "BoilEase Electric Kettle by BrandG",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 10058.62,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Computing,Audio,Visual",
+            "geo": [
+                12.969849,
+                77.592864
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "745592",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00036",
+            "vendor_code": "VENDOR-551"
+        }
+    },
+    {
+        "product": {
+            "title": "AquaBot Robotic Pool Cleaner by BrandH",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 17838.68,
+            "product_category": "Personal Care",
+            "product_subcategories": "Mobile,Computing",
+            "geo": [
+                12.974069,
+                77.595397
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "243123",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00037",
+            "vendor_code": "VENDOR-921"
+        }
+    },
+    {
+        "product": {
+            "title": "Guard Home Security Camera by BrandI",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 10645.08,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Grooming,Fitness,Health",
+            "geo": [
+                12.971351,
+                77.590831
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "462403",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00038",
+            "vendor_code": "VENDOR-865"
+        }
+    },
+    {
+        "product": {
+            "title": "LabelFast Thermal Label Printer by BrandJ",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 7561.29,
+            "product_category": "Home Appliances",
+            "product_subcategories": "Fitness,Grooming",
+            "geo": [
+                12.963671,
+                77.599581
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "349356",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00039",
+            "vendor_code": "VENDOR-637"
+        }
+    },
+    {
+        "product": {
+            "title": "PhotoPro DSLR Camera by BrandK",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 33766.97,
+            "product_category": "Smart Home",
+            "product_subcategories": "Sports,Recreation",
+            "geo": [
+                28.705117,
+                77.106722
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "402543",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00040",
+            "vendor_code": "VENDOR-805"
+        }
+    },
+    {
+        "product": {
+            "title": "WorkBuddy Adjustable Laptop Stand by BrandL",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 21957.9,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Computing",
+            "geo": [
+                19.067503,
+                72.883734
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "154873",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00041",
+            "vendor_code": "VENDOR-410"
+        }
+    },
+    {
+        "product": {
+            "title": "CoolPro Portable AC by BrandM",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 45770.22,
+            "product_category": "Smart Home",
+            "product_subcategories": "Sports",
+            "geo": [
+                12.964175,
+                77.601944
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "108763",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00042",
+            "vendor_code": "VENDOR-722"
+        }
+    },
+    {
+        "product": {
+            "title": "BakeEasy Oven by BrandN",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 34233.17,
+            "product_category": "Electronics",
+            "product_subcategories": "Fitness,Health",
+            "geo": [
+                19.076956,
+                72.879878
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "643934",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00043",
+            "vendor_code": "VENDOR-244"
+        }
+    },
+    {
+        "product": {
+            "title": "VacayTravel Suitcase Set by BrandO",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 27395.37,
+            "product_category": "Smart Home",
+            "product_subcategories": "Climate Control",
+            "geo": [
+                12.974053,
+                77.58846
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "352208",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00044",
+            "vendor_code": "VENDOR-459"
+        }
+    },
+    {
+        "product": {
+            "title": "Glide Inline Skates by BrandP",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 16507.16,
+            "product_category": "Smart Home",
+            "product_subcategories": "Climate Control,Laundry",
+            "geo": [
+                19.076853,
+                72.882274
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "736567",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00045",
+            "vendor_code": "VENDOR-299"
+        }
+    },
+    {
+        "product": {
+            "title": "EcoWash Washing Machine by BrandQ",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 10707.97,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Grooming,Fitness",
+            "geo": [
+                12.96584,
+                77.603854
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "826538",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00046",
+            "vendor_code": "VENDOR-336"
+        }
+    },
+    {
+        "product": {
+            "title": "PowerShave Razor by BrandR",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 38262.12,
+            "product_category": "Smart Home",
+            "product_subcategories": "Visual",
+            "geo": [
+                19.072108,
+                72.881174
+            ],
+            "address": {
+                "city": "Mumbai",
+                "pincode": "534360",
+                "state": "Maharashtra"
+            },
+            "SKU": "SKU-00047",
+            "vendor_code": "VENDOR-805"
+        }
+    },
+    {
+        "product": {
+            "title": "MaxGrip Wrench Set by BrandS",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 20986.01,
+            "product_category": "Smart Home",
+            "product_subcategories": "Mobile,Audio,Computing",
+            "geo": [
+                12.963467,
+                77.588699
+            ],
+            "address": {
+                "city": "Bangalore",
+                "pincode": "440379",
+                "state": "Karnataka"
+            },
+            "SKU": "SKU-00048",
+            "vendor_code": "VENDOR-288"
+        }
+    },
+    {
+        "product": {
+            "title": "Focus Ring Light by BrandT",
+            "description": "This product features premium materials and innovative design to enhance your daily life with outstanding performance and reliability.",
+            "price": 12868.23,
+            "product_category": "Outdoor Equipment",
+            "product_subcategories": "Computing",
+            "geo": [
+                28.703139,
+                77.108503
+            ],
+            "address": {
+                "city": "Delhi",
+                "pincode": "327571",
+                "state": "Delhi"
+            },
+            "SKU": "SKU-00049",
+            "vendor_code": "VENDOR-841"
+        }
+    }
+]

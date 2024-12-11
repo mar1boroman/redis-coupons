@@ -1,0 +1,954 @@
+[
+    {
+        "userid": 1,
+        "username": "U2OVP5YV",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 2,
+        "username": "IF9VXOGK",
+        "categories_purchased": [
+            "Beauty Products",
+            "Books",
+            "Sports",
+            "Toys"
+        ]
+    },
+    {
+        "userid": 3,
+        "username": "7MSEV1OP",
+        "categories_purchased": [
+            "Fashion",
+            "Garden Supplies",
+            "Music Instruments",
+            "Toys",
+            "Books"
+        ]
+    },
+    {
+        "userid": 4,
+        "username": "0XEU1ZDW",
+        "categories_purchased": [
+            "Pet Supplies",
+            "Music Instruments",
+            "Fitness",
+            "Books",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 5,
+        "username": "LHLFRTJJ",
+        "categories_purchased": [
+            "Sports",
+            "Pet Supplies",
+            "Groceries",
+            "Health",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 6,
+        "username": "MJL5RQG2",
+        "categories_purchased": [
+            "Automotive",
+            "Garden Supplies",
+            "Pet Supplies",
+            "Sports"
+        ]
+    },
+    {
+        "userid": 7,
+        "username": "SBI73922",
+        "categories_purchased": [
+            "Electronics",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 8,
+        "username": "XOPHUW32",
+        "categories_purchased": [
+            "Groceries",
+            "Health",
+            "Pet Supplies"
+        ]
+    },
+    {
+        "userid": 9,
+        "username": "B0RLY5BN",
+        "categories_purchased": [
+            "Health",
+            "Garden Supplies",
+            "Fashion"
+        ]
+    },
+    {
+        "userid": 10,
+        "username": "GOVY4Q89",
+        "categories_purchased": [
+            "Home Appliances",
+            "Furniture",
+            "Beauty Products",
+            "Groceries",
+            "Books"
+        ]
+    },
+    {
+        "userid": 11,
+        "username": "HGSYQJ7P",
+        "categories_purchased": [
+            "Health",
+            "Groceries",
+            "Furniture",
+            "Fitness",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 12,
+        "username": "7B2EG1SE",
+        "categories_purchased": [
+            "Electronics",
+            "Sports",
+            "Fashion",
+            "Pet Supplies",
+            "Health"
+        ]
+    },
+    {
+        "userid": 13,
+        "username": "FENBDRGR",
+        "categories_purchased": [
+            "Furniture",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 14,
+        "username": "EEAQF9DA",
+        "categories_purchased": [
+            "Fashion",
+            "Furniture",
+            "Books",
+            "Toys",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 15,
+        "username": "BX0N6MQM",
+        "categories_purchased": [
+            "Automotive",
+            "Electronics",
+            "Fitness",
+            "Music Instruments",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 16,
+        "username": "NQGC1PFO",
+        "categories_purchased": [
+            "Home Appliances",
+            "Fashion",
+            "Music Instruments",
+            "Pet Supplies"
+        ]
+    },
+    {
+        "userid": 17,
+        "username": "MVKO7D1P",
+        "categories_purchased": [
+            "Sports",
+            "Automotive",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 18,
+        "username": "T6949OXV",
+        "categories_purchased": [
+            "Sports",
+            "Home Appliances",
+            "Electronics"
+        ]
+    },
+    {
+        "userid": 19,
+        "username": "EX39F1BH",
+        "categories_purchased": [
+            "Groceries",
+            "Electronics"
+        ]
+    },
+    {
+        "userid": 20,
+        "username": "ZX594HT2",
+        "categories_purchased": [
+            "Groceries",
+            "Music Instruments",
+            "Beauty Products",
+            "Home Appliances",
+            "Fitness"
+        ]
+    },
+    {
+        "userid": 21,
+        "username": "U2SMOV5N",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Groceries",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 22,
+        "username": "7H861R71",
+        "categories_purchased": [
+            "Home Appliances",
+            "Health",
+            "Books",
+            "Toys",
+            "Fitness"
+        ]
+    },
+    {
+        "userid": 23,
+        "username": "8N1B1777",
+        "categories_purchased": [
+            "Toys",
+            "Groceries",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 24,
+        "username": "YDELC3XN",
+        "categories_purchased": [
+            "Pet Supplies",
+            "Groceries",
+            "Automotive",
+            "Home Appliances"
+        ]
+    },
+    {
+        "userid": 25,
+        "username": "SDU8FNIQ",
+        "categories_purchased": [
+            "Groceries",
+            "Books",
+            "Health",
+            "Fitness",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 26,
+        "username": "CICRPYZ4",
+        "categories_purchased": [
+            "Sports",
+            "Electronics"
+        ]
+    },
+    {
+        "userid": 27,
+        "username": "M9AKY0PW",
+        "categories_purchased": [
+            "Automotive",
+            "Fitness",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 28,
+        "username": "IMNY01PX",
+        "categories_purchased": [
+            "Sports",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 29,
+        "username": "MTOJJYS5",
+        "categories_purchased": [
+            "Beauty Products",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 30,
+        "username": "GWL4C9XT",
+        "categories_purchased": [
+            "Fitness",
+            "Music Instruments",
+            "Electronics",
+            "Automotive",
+            "Fashion"
+        ]
+    },
+    {
+        "userid": 31,
+        "username": "EY2EHUCF",
+        "categories_purchased": [
+            "Health",
+            "Toys"
+        ]
+    },
+    {
+        "userid": 32,
+        "username": "6MU29XKD",
+        "categories_purchased": [
+            "Health",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 33,
+        "username": "ILGW2487",
+        "categories_purchased": [
+            "Toys",
+            "Furniture",
+            "Books",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 34,
+        "username": "7JSXNXV7",
+        "categories_purchased": [
+            "Groceries",
+            "Furniture",
+            "Home Appliances",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 35,
+        "username": "FHBNZ51H",
+        "categories_purchased": [
+            "Music Instruments",
+            "Health",
+            "Pet Supplies",
+            "Home Appliances"
+        ]
+    },
+    {
+        "userid": 36,
+        "username": "COV3FOM7",
+        "categories_purchased": [
+            "Home Appliances",
+            "Garden Supplies",
+            "Pet Supplies",
+            "Books"
+        ]
+    },
+    {
+        "userid": 37,
+        "username": "33O5TKMF",
+        "categories_purchased": [
+            "Fitness",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 38,
+        "username": "2QFGLVK1",
+        "categories_purchased": [
+            "Fitness",
+            "Health"
+        ]
+    },
+    {
+        "userid": 39,
+        "username": "NWPJGPSM",
+        "categories_purchased": [
+            "Pet Supplies",
+            "Electronics",
+            "Toys",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 40,
+        "username": "JUKTDOTJ",
+        "categories_purchased": [
+            "Music Instruments",
+            "Books",
+            "Home Appliances"
+        ]
+    },
+    {
+        "userid": 41,
+        "username": "SJ3P6QY3",
+        "categories_purchased": [
+            "Sports",
+            "Books",
+            "Groceries",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 42,
+        "username": "B7ZOD3N8",
+        "categories_purchased": [
+            "Fitness",
+            "Beauty Products",
+            "Fashion"
+        ]
+    },
+    {
+        "userid": 43,
+        "username": "WNA00TPB",
+        "categories_purchased": [
+            "Electronics",
+            "Sports"
+        ]
+    },
+    {
+        "userid": 44,
+        "username": "AEED089I",
+        "categories_purchased": [
+            "Automotive",
+            "Health",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 45,
+        "username": "ASQLQ09K",
+        "categories_purchased": [
+            "Sports",
+            "Beauty Products",
+            "Toys",
+            "Fitness",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 46,
+        "username": "MXA39ZJ8",
+        "categories_purchased": [
+            "Home Appliances",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 47,
+        "username": "TURUTUB8",
+        "categories_purchased": [
+            "Beauty Products",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 48,
+        "username": "M6J0ZL6C",
+        "categories_purchased": [
+            "Groceries",
+            "Books",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 49,
+        "username": "9D9F2KCH",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Home Appliances",
+            "Beauty Products",
+            "Automotive",
+            "Sports"
+        ]
+    },
+    {
+        "userid": 50,
+        "username": "NFW5KH38",
+        "categories_purchased": [
+            "Electronics",
+            "Home Appliances",
+            "Fashion",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 51,
+        "username": "S1JG9JTU",
+        "categories_purchased": [
+            "Beauty Products",
+            "Health",
+            "Home Appliances",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 52,
+        "username": "KB2RK7OF",
+        "categories_purchased": [
+            "Fashion",
+            "Electronics",
+            "Furniture",
+            "Books"
+        ]
+    },
+    {
+        "userid": 53,
+        "username": "U9ZEIHXT",
+        "categories_purchased": [
+            "Toys",
+            "Sports",
+            "Electronics"
+        ]
+    },
+    {
+        "userid": 54,
+        "username": "E61M07EO",
+        "categories_purchased": [
+            "Automotive",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 55,
+        "username": "9V17Z4DV",
+        "categories_purchased": [
+            "Groceries",
+            "Health",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 56,
+        "username": "5T7LT7VB",
+        "categories_purchased": [
+            "Groceries",
+            "Home Appliances"
+        ]
+    },
+    {
+        "userid": 57,
+        "username": "7AYEZDLX",
+        "categories_purchased": [
+            "Furniture",
+            "Fitness",
+            "Fashion",
+            "Beauty Products",
+            "Health"
+        ]
+    },
+    {
+        "userid": 58,
+        "username": "GE9VAC3P",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Health",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 59,
+        "username": "0TN2OSY2",
+        "categories_purchased": [
+            "Beauty Products",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 60,
+        "username": "RWN6NHKJ",
+        "categories_purchased": [
+            "Home Appliances",
+            "Electronics",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 61,
+        "username": "783IA47H",
+        "categories_purchased": [
+            "Pet Supplies",
+            "Electronics",
+            "Fitness",
+            "Garden Supplies",
+            "Books"
+        ]
+    },
+    {
+        "userid": 62,
+        "username": "G5OKZPAN",
+        "categories_purchased": [
+            "Sports",
+            "Pet Supplies",
+            "Music Instruments",
+            "Home Appliances",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 63,
+        "username": "EJGKQBRP",
+        "categories_purchased": [
+            "Automotive",
+            "Health"
+        ]
+    },
+    {
+        "userid": 64,
+        "username": "EJY3DT0F",
+        "categories_purchased": [
+            "Books",
+            "Furniture",
+            "Pet Supplies",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 65,
+        "username": "ZJMYXGGB",
+        "categories_purchased": [
+            "Fashion",
+            "Groceries",
+            "Garden Supplies",
+            "Fitness",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 66,
+        "username": "V5HP4JWT",
+        "categories_purchased": [
+            "Health",
+            "Furniture",
+            "Toys"
+        ]
+    },
+    {
+        "userid": 67,
+        "username": "9Z06MRJ8",
+        "categories_purchased": [
+            "Books",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 68,
+        "username": "4IF88NDQ",
+        "categories_purchased": [
+            "Health",
+            "Sports",
+            "Groceries",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 69,
+        "username": "IFPMMMSY",
+        "categories_purchased": [
+            "Books",
+            "Fitness",
+            "Home Appliances",
+            "Automotive",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 70,
+        "username": "TC3QPE7Z",
+        "categories_purchased": [
+            "Automotive",
+            "Electronics",
+            "Fitness"
+        ]
+    },
+    {
+        "userid": 71,
+        "username": "9UOJD7FA",
+        "categories_purchased": [
+            "Sports",
+            "Electronics",
+            "Health",
+            "Fashion"
+        ]
+    },
+    {
+        "userid": 72,
+        "username": "PXXX201C",
+        "categories_purchased": [
+            "Music Instruments",
+            "Health",
+            "Garden Supplies",
+            "Books"
+        ]
+    },
+    {
+        "userid": 73,
+        "username": "MD781G8Z",
+        "categories_purchased": [
+            "Fashion",
+            "Home Appliances",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 74,
+        "username": "R8L2NS25",
+        "categories_purchased": [
+            "Music Instruments",
+            "Fashion",
+            "Furniture",
+            "Automotive",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 75,
+        "username": "JP9Z2FAW",
+        "categories_purchased": [
+            "Furniture",
+            "Books",
+            "Sports",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 76,
+        "username": "VYXHAJU7",
+        "categories_purchased": [
+            "Electronics",
+            "Sports",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 77,
+        "username": "P5LYSCBE",
+        "categories_purchased": [
+            "Electronics",
+            "Groceries",
+            "Toys",
+            "Health",
+            "Pet Supplies"
+        ]
+    },
+    {
+        "userid": 78,
+        "username": "TZ4RTDM8",
+        "categories_purchased": [
+            "Beauty Products",
+            "Pet Supplies"
+        ]
+    },
+    {
+        "userid": 79,
+        "username": "IL2N8GN6",
+        "categories_purchased": [
+            "Sports",
+            "Home Appliances",
+            "Electronics",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 80,
+        "username": "72Y8PT2L",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Automotive",
+            "Pet Supplies",
+            "Music Instruments",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 81,
+        "username": "AV3XA5UO",
+        "categories_purchased": [
+            "Fitness",
+            "Electronics",
+            "Furniture",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 82,
+        "username": "K3LBAW89",
+        "categories_purchased": [
+            "Books",
+            "Groceries",
+            "Furniture"
+        ]
+    },
+    {
+        "userid": 83,
+        "username": "OQ22AVI0",
+        "categories_purchased": [
+            "Automotive",
+            "Sports",
+            "Books",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 84,
+        "username": "M076NMNK",
+        "categories_purchased": [
+            "Health",
+            "Electronics",
+            "Furniture",
+            "Garden Supplies"
+        ]
+    },
+    {
+        "userid": 85,
+        "username": "B5M78FPL",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 86,
+        "username": "0UG2J5JD",
+        "categories_purchased": [
+            "Pet Supplies",
+            "Automotive",
+            "Fitness",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 87,
+        "username": "UPMA3S08",
+        "categories_purchased": [
+            "Toys",
+            "Sports"
+        ]
+    },
+    {
+        "userid": 88,
+        "username": "FIPOJMB9",
+        "categories_purchased": [
+            "Electronics",
+            "Health",
+            "Music Instruments"
+        ]
+    },
+    {
+        "userid": 89,
+        "username": "FTJ6IMLY",
+        "categories_purchased": [
+            "Beauty Products",
+            "Pet Supplies",
+            "Toys",
+            "Fashion"
+        ]
+    },
+    {
+        "userid": 90,
+        "username": "ZAC6LISW",
+        "categories_purchased": [
+            "Music Instruments",
+            "Pet Supplies",
+            "Fitness",
+            "Automotive",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 91,
+        "username": "DFTXHDY3",
+        "categories_purchased": [
+            "Music Instruments",
+            "Automotive"
+        ]
+    },
+    {
+        "userid": 92,
+        "username": "QJLV61TH",
+        "categories_purchased": [
+            "Music Instruments",
+            "Garden Supplies",
+            "Beauty Products",
+            "Health"
+        ]
+    },
+    {
+        "userid": 93,
+        "username": "FIP7VM63",
+        "categories_purchased": [
+            "Fitness",
+            "Beauty Products",
+            "Health"
+        ]
+    },
+    {
+        "userid": 94,
+        "username": "7NJGDG8B",
+        "categories_purchased": [
+            "Health",
+            "Furniture",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 95,
+        "username": "8DHJFOOH",
+        "categories_purchased": [
+            "Toys",
+            "Fitness",
+            "Groceries"
+        ]
+    },
+    {
+        "userid": 96,
+        "username": "S73SKKH0",
+        "categories_purchased": [
+            "Electronics",
+            "Music Instruments",
+            "Furniture",
+            "Books",
+            "Pet Supplies"
+        ]
+    },
+    {
+        "userid": 97,
+        "username": "VUOE2DS7",
+        "categories_purchased": [
+            "Electronics",
+            "Toys",
+            "Garden Supplies",
+            "Beauty Products"
+        ]
+    },
+    {
+        "userid": 98,
+        "username": "L0GF2H5X",
+        "categories_purchased": [
+            "Beauty Products",
+            "Toys",
+            "Home Appliances"
+        ]
+    },
+    {
+        "userid": 99,
+        "username": "GWGGZACO",
+        "categories_purchased": [
+            "Garden Supplies",
+            "Groceries",
+            "Fashion",
+            "Toys"
+        ]
+    },
+    {
+        "userid": 100,
+        "username": "OUGE53IH",
+        "categories_purchased": [
+            "Electronics",
+            "Sports",
+            "Beauty Products"
+        ]
+    }
+]
