@@ -38,7 +38,16 @@ lua_script = """
 # Load the script into Redis
 lua_script_sha = r.script_load(lua_script)
 
-
+def capture_events(event_stream, event_type, key_name):
+    """
+    Captures user events and adds them to the Redis stream.
+    """
+    r.xadd(name=event_stream, fields={
+        'action': event_type.lower(),
+        'item': key_name
+    })
+    print(f"Capture Events: Event captured - action: {event_type.lower()}, item: {key_name}")
+    
 
 def update_cart_service(cart_key, event_stream):
     """
@@ -64,19 +73,10 @@ def update_cart_service(cart_key, event_stream):
             r.hdel(cart_key, name)
             
         r.evalsha(lua_script_sha, 1, cart_key)
+        
         print(f"Cart Updated!")
 
 
-def capture_events(event_stream, event_type, key_name):
-    """
-    Captures user events and adds them to the Redis stream.
-    """
-    r.xadd(name=event_stream, fields={
-        'action': event_type.lower(),
-        'item': key_name
-    })
-    print(f"Capture Events: Event captured - action: {event_type.lower()}, item: {key_name}")
-    
 
 def main():
     """

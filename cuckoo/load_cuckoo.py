@@ -10,7 +10,7 @@ r.flushdb()
 r.cf().reserve(key='unused_coupons', capacity=1000000)
 
 def load_unused_coupons(no_of_coupons):
-    coupon_ids = [f"coupons:{x}" for x in range(no_of_coupons)]
+    coupon_ids = [f"coupon:{x}" for x in range(no_of_coupons)]
     for id in coupon_ids:
         p.cf().add('unused_coupons', id)
     p.execute()

@@ -26,7 +26,9 @@ def check_coupon(couponid):
 
 
 def main():
-    check_coupon('coupons:2')
+    
+    coupon_name = input('Enter your coupon code: ')
+    check_coupon(coupon_name)
     
     
 if __name__ == "__main__":

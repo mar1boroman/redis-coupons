@@ -1,6 +1,19 @@
 
+# Scenario 1:  Bloom Filters
 
-# Searching
+#### Create the index
+
+```
+FT.CREATE idx:users
+    ON HASH 
+    PREFIX 1 user:
+    SCHEMA
+        id as id TEXT
+        coupon as coupon TAG
+        no_of_logins NUMERIC
+```
+
+#### Find the number of existing users
 
 ```
 FT.AGGREGATE  idx:users @coupon:{Expired}
@@ -34,4 +47,43 @@ FT.AGGREGATE idx:users "@no_of_logins:[1,1]"
 
 ```
 FT.SEARCH idx:users "@coupon:{first_time_user}" SORTBY no_of_logins DESC LIMIT 0 5
+```
+
+# Scenario 2 : All applicable coupons
+
+```
+FLUSHDB
+```
+
+#### Set the coupon metadata
+
+```
+HSET coupon:1 name COUPON10 value 10 category Books
+HSET coupon:2 name ELECTRO50 value 20 category Electronics
+HSET coupon:3 name BANK50 value 50 category BANK1
+```
+
+#### Set the cart metadata
+
+```
+HSET cart Electronics 10 Books 5 Fashion 15 Payment BANK1
+```
+
+#### Create index based on coupons & Search for relevant coupons based on cart items
+
+```
+FT.CREATE idx:coupons
+    ON HASH PREFIX 1 coupon:
+    SCHEMA 
+        name as name TAG
+        value as value NUMERIC
+        category as category TAG
+```
+
+```
+FT.INFO idx:coupons
+```
+
+```
+FT.SEARCH idx:coupons "@category:{Electronics}"
 ```
